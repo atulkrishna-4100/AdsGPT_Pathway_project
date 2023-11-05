@@ -17,7 +17,7 @@ with st.sidebar:
         "to build real-time LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources\n"
 
     )
-##################st.markdown("[View the source code on GitHub](https://github.com/Boburmirzo/chatgpt-api-python-sales)")
+st.markdown("[View the source code on GitHub](https://github.com/atulkrishna-4100/AdsGPT_Pathway_project.git)")
 
 # Load environment variables
 load_dotenv()

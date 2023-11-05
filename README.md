@@ -45,13 +45,13 @@ Then, follow the easy steps to install and get started using the sample app.
 This is done with the `git clone` command followed by the URL of the repository:
 
 ```bash
-git clone 
+git clone https://github.com/atulkrishna-4100/AdsGPT_Pathway_project.git
 ```
 
 Next,  navigate to the project folder:
 
 ```bash
-cd 
+cd Ads_Pathway_project
 ```
 
 ### Step 2: Set environment variables
